@@ -1,0 +1,21 @@
+info:
+    namespace: stemcraft
+font_images:
+#     stemmech_logo:
+#         suggest_in_command: false
+#         path: _font/stemmech_logo.png
+#         symbol: "\uE141"
+#         y_position: 32
+#         scale_ratio: 64
+#     logo_menu_top:
+#         suggest_in_command: false
+#         path: _font/logo_menu_top.png
+#         symbol: "\uE142"
+#         y_position: 32
+#         scale_ratio: 64
+# minecraft_lang_overwrite:
+#     esc_menu_texts:
+#         entries:
+#             menu.game: ":logo_menu_top:"
+#         languages:
+#             - ALL

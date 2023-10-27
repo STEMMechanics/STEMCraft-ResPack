@@ -1,0 +1,12 @@
+ENDER_DRAGON:
+  Health: 4000.0
+  Damage: 30.0
+  Skills:
+    - explode{power=2.0}
+
+IRON_GOLEM:
+  Options:
+    PreventOtherDrops: true
+  Drops:
+    - IRON_NUGGET 3-5
+    - POPPY 0-2
