@@ -50,3 +50,10 @@ items:
             generate: true
             textures:
                 - item/ruby_coin.png
+    netherite_coin:
+        display_name: Netherite Coin
+        resource:
+            material: STICK
+            generate: true
+            textures:
+                - item/ruby_coin.png
