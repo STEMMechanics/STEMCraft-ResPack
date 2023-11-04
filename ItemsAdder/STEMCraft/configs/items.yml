@@ -43,15 +43,15 @@ items:
             generate: true
             textures:
                 - item/lapis_coin.png
-    ruby_coin:
-        display_name: Ruby Coin
+    netherite_coin:
+        display_name: Netherite Coin
         resource:
             material: STICK
             generate: true
             textures:
-                - item/ruby_coin.png
-    netherite_coin:
-        display_name: Netherite Coin
+                - item/netherite_coin.png
+    ruby_coin:
+        display_name: Ruby Coin
         resource:
             material: STICK
             generate: true

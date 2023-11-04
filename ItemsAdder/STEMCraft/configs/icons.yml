@@ -140,3 +140,10 @@ font_images:
         symbol: "\uE134"
         scale_ratio: 9
         y_position: 8
+    chest:
+        show_in_gui: false
+        suggest_in_command: false
+        path: _font/chest.png
+        symbol: "\uE135"
+        scale_ratio: 16
+        y_position: 12
