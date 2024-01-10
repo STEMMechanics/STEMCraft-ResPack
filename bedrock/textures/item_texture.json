@@ -1,0 +1,30 @@
+{
+    "resource_pack_name": "STEMCraft",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "copper_coin": {
+            "textures": ["textures/items/copper_coin"]
+        },
+        "iron_coin": {
+            "textures": ["textures/items/iron_coin"]
+        },
+        "gold_coin": {
+            "textures": ["textures/items/gold_coin"]
+        },
+        "diamond_coin": {
+            "textures": ["textures/items/diamond_coin"]
+        },
+        "emerald_coin": {
+            "textures": ["textures/items/emerald_coin"]
+        },
+        "lapis_coin": {
+            "textures": ["textures/items/lapis_coin"]
+        },
+        "nether_coin": {
+            "textures": ["textures/items/nether_coin"]
+        },
+        "ruby_coin": {
+            "textures": ["textures/items/ruby_coin"]
+        }
+    }
+}

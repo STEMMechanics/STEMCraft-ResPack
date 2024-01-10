@@ -1,0 +1,39 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:stick": [
+            {
+                "name": "copper_coin",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iron_coin",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "gold_coin",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "diamond_coin",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "emerald_coin",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "lapis_coin",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "nether_coin",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "ruby_coin",
+                "custom_model_data": 10007
+            }
+        ]
+    }
+}

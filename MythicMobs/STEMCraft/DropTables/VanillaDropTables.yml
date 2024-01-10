@@ -1,5 +1,0 @@
-EndermenEndDrops:
-  Conditions:
-  - playerwithin 40
-  Drops:
-  - experience 0 0

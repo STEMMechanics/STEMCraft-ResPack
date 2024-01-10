@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:block/stone",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 10000
+            },
+            "model": "stemcraft:item/grave"
+        }
+    ]
+}

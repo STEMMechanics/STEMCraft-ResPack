@@ -1,0 +1,151 @@
+{
+    "providers": [
+        {
+            "file": "stemcraft:font/crafting_table.png",
+            "chars": ["\uE120"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/enchantment_table.png",
+            "chars": ["\uE121"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/skeleton_head_front.png",
+            "chars": ["\uE122"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/chat_bubble.png",
+            "chars": ["\uE123"],
+            "height": 24,
+            "ascent": 24,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/info_purple.png",
+            "chars": ["\uE124"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/info_blue.png",
+            "chars": ["\uE125"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/info_green.png",
+            "chars": ["\uE126"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/question_yellow.png",
+            "chars": ["\uE127"],
+            "height": 24,
+            "ascent": 24,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/question_blue.png",
+            "chars": ["\uE128"],
+            "height": 24,
+            "ascent": 24,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/question_green.png",
+            "chars": ["\uE129"],
+            "height": 24,
+            "ascent": 24,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/world.png",
+            "chars": ["\uE12a"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/location.png",
+            "chars": ["\uE12b"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/house.png",
+            "chars": ["\uE12c"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/purple_bed.png",
+            "chars": ["\uE12d"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/green_bed.png",
+            "chars": ["\uE12e"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/discord.png",
+            "chars": ["\uE12f"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/warning_yellow.png",
+            "chars": ["\uE131"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/warning_red.png",
+            "chars": ["\uE132"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/click_action_left.png",
+            "chars": ["\uE133"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/click_action_right.png",
+            "chars": ["\uE134"],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "stemcraft:font/chest.png",
+            "chars": ["\uE135"],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        }
+    ]
+}
