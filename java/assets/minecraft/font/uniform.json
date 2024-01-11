@@ -72,42 +72,42 @@
         },
         {
             "file": "stemcraft:font/world.png",
-            "chars": ["\uE12a"],
+            "chars": ["\uE12A"],
             "height": 9,
             "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/location.png",
-            "chars": ["\uE12b"],
+            "chars": ["\uE12B"],
             "height": 9,
             "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/house.png",
-            "chars": ["\uE12c"],
+            "chars": ["\uE12C"],
             "height": 9,
             "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/purple_bed.png",
-            "chars": ["\uE12d"],
+            "chars": ["\uE12D"],
             "height": 9,
             "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/green_bed.png",
-            "chars": ["\uE12e"],
+            "chars": ["\uE12E"],
             "height": 9,
             "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/discord.png",
-            "chars": ["\uE12f"],
+            "chars": ["\uE12F"],
             "height": 9,
             "ascent": 8,
             "type": "bitmap"
@@ -150,33 +150,33 @@
         {
             "file": "stemcraft:font/warning_purple.png",
             "chars": ["\uE136"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/warning_orange.png",
             "chars": ["\uE137"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/warning_blue.png",
             "chars": ["\uE138"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/star.png",
             "chars": ["\uE139"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
-            "file": "stemcraft:font/grey_question.png",
+            "file": "stemcraft:font/question_grey.png",
             "chars": ["\uE13A"],
             "height": 16,
             "ascent": 12,
@@ -185,36 +185,36 @@
         {
             "file": "stemcraft:font/plus_small.png",
             "chars": ["\uE13B"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/exclamation_yellow.png",
             "chars": ["\uE13C"],
-            "height": 16,
-            "ascent": 12,
+            "height": 24,
+            "ascent": 24,
             "type": "bitmap"
         },
         {
-            "file": "stemcraft:font/exclaimation_grey.png",
+            "file": "stemcraft:font/exclamation_grey.png",
             "chars": ["\uE13D"],
-            "height": 16,
-            "ascent": 12,
+            "height": 24,
+            "ascent": 24,
             "type": "bitmap"
         },
         {
-            "file": "stemcraft:font/exclaimation_green.png",
+            "file": "stemcraft:font/exclamation_green.png",
             "chars": ["\uE13E"],
-            "height": 16,
-            "ascent": 12,
+            "height": 24,
+            "ascent": 24,
             "type": "bitmap"
         },
         {
-            "file": "stemcraft:font/exclaimation_blue.png",
+            "file": "stemcraft:font/exclamation_blue.png",
             "chars": ["\uE13F"],
-            "height": 16,
-            "ascent": 12,
+            "height": 24,
+            "ascent": 24,
             "type": "bitmap"
         },
         {
@@ -227,43 +227,43 @@
         {
             "file": "stemcraft:font/jungle_sapling.png",
             "chars": ["\uE141"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/click_action_shift.png",
             "chars": ["\uE142"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/cancel.png",
             "chars": ["\uE143"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
             "file": "stemcraft:font/accept.png",
             "chars": ["\uE144"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
-            "file": "stemcraft:font/stemcraft.png",
+            "file": "stemcraft:font/roles/stemcraft.png",
             "chars": ["\uE145"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
-            "file": "stemcraft:font/stemcraft.png",
+            "file": "stemcraft:font/roles/stagecraft.png",
             "chars": ["\uE146"],
-            "height": 16,
-            "ascent": 12,
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         }
     ]

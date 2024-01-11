@@ -23,6 +23,10 @@ When your contribution is ready to be merged, create a Pull Request and once rea
 
 ## Changes
 
+### 1.0.5
+
+-   Missing font icons in Java restored
+
 ### 1.0.4
 
 -   Added Coins
