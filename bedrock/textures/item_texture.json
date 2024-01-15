@@ -25,6 +25,9 @@
         },
         "ruby_coin": {
             "textures": ["textures/items/ruby_coin"]
+        },
+        "treasure_hunter_coin": {
+            "textures": ["textures/items/treasure_hunter_coin"]
         }
     }
 }

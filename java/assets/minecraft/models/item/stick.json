@@ -49,6 +49,66 @@
                 "custom_model_data": 10007
             },
             "model": "stemcraft:item/ruby_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11001
+            },
+            "model": "stemcraft:item/treasure_hunter_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11002
+            },
+            "model": "stemcraft:item/treasure_hunter_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11003
+            },
+            "model": "stemcraft:item/treasure_hunter_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11004
+            },
+            "model": "stemcraft:item/treasure_hunter_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11005
+            },
+            "model": "stemcraft:item/treasure_hunter_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11006
+            },
+            "model": "stemcraft:item/treasure_hunter_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11007
+            },
+            "model": "stemcraft:item/treasure_hunter_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11008
+            },
+            "model": "stemcraft:item/treasure_hunter_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11009
+            },
+            "model": "stemcraft:item/treasure_hunter_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11010
+            },
+            "model": "stemcraft:item/treasure_hunter_coin"
         }
     ]
 }

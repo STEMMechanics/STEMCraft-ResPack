@@ -1,0 +1,4 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": { "layer0": "stemcraft:item/treasure_hunter_coin" }
+}

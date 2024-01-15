@@ -33,6 +33,50 @@
             {
                 "name": "ruby_coin",
                 "custom_model_data": 10007
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11001
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11001
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11002
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11003
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11004
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11005
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11006
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11007
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11008
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11009
+            },
+            {
+                "name": "treasure_hunter_coin",
+                "custom_model_data": 11010
             }
         ]
     }

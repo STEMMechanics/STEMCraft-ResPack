@@ -3,16 +3,16 @@
     "header": {
         "description": "STEMCraft",
         "name": "generated",
-        "uuid": "f74dc3ff-db76-4c5e-a939-2504cfc7ea03",
-        "version": [1, 0, 4],
+        "uuid": "f74dc3ff-db76-4c5e-a939-2504cfc7e106",
+        "version": [1, 0, 6],
         "min_engine_version": [1, 17, 0]
     },
     "modules": [
         {
             "description": "STEMCraft",
             "type": "resources",
-            "uuid": "13822f9b-e962-4162-9d94-c95e43c95b91",
-            "version": [1, 0, 4]
+            "uuid": "f74dc3ff-db76-4c5e-a939-2504cfc7e106",
+            "version": [1, 0, 6]
         }
     ]
 }
